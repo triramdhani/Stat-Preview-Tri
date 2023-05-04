@@ -1,5 +1,7 @@
 # Stat-Preview-Tri
 
+Live Site : [GithubPpage](https://triramdhani.github.io/Stat-Preview-Tri/)
+
 Screenshoot
 
 Mobile View
